@@ -1,0 +1,1 @@
+printf("huinya ebanaya etot vash python")
